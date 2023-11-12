@@ -1,0 +1,47 @@
+/* Add spacing using margin and padding */
+body {
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  /* Change background color */
+  body {
+    background-color: #c014142b;
+  }
+  
+  /* Change font color */
+  p {
+    color: #d21313;
+  }
+  
+  /* Make images have rounded border */
+  img {
+    border-radius: 40px;
+  }
+  
+  /* Apply styling to table header */
+  th {
+    background-color: #4CAF50; 
+    color: white; 
+  }
+  
+  /* Apply styling for table data */
+  td {
+    border: 1px solid #852424;
+    padding: 8px;
+  }
+  
+  /* Make text input on address page larger */
+  input[type="text"] {
+    width: 310px;
+    height: 45px;
+    font-size: 20px;
+  }
+  
+  /* Make the submit button the same height and width as input text */
+input[type="submit"] {
+    width: 310px;
+    height: 45px;
+    font-size: 20px;
+  }
+  
